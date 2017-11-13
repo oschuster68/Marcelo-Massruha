@@ -19,6 +19,9 @@ Cenário I - Criação de Rotina para controle de Projetos (Time-Sheet
      e. Cadastrar Competências 
      f. Associar Competências aos Colaboradores
      g. Gravar Históricos de todas as tarefas
+     i. Deve funcionar para dispositivos móevis (Android e IOs) - Smartphone, Tablets, Portal Web, TVs Smart
+     j. operar em modo On e Off-line
+     k. Estrutura já preparada para multi-idioma
       
   3. No Portal o administrador, RH ou Gestor (definido no perfil do usuário e permissões): 
      a. Planeja um projeto, atividade e tarefa (Cliente, Local (geolocalização), data e hora) para os colaboradores sob sua gestão.
@@ -51,8 +54,11 @@ Cenário I - Criação de Rotina para controle de Projetos (Time-Sheet
      a. Mostrar as tarefas planejadas (cliente, local, projeto, atividade, status, tarefa, hora início, hora fim, duração total, anexos, avaliação cliente, tempo de execução (para aquelas que estão em Execução no momento da consulta - Timer).
      b. Filtros (com todos os campos) de seleção para consulta e opção para exportar em formatos PDF, CSV/XLS ou Word   
 
+  6. Ambiente esperado
+     a. FRONT - Ionic 3 / Angular 4 
+     b. BACK/API - MySQL 5.6 - Laravel 5.4 ou Lumen
 
-link das telas do APP no Marvel (faltam algumas do mapa): https://marvelapp.com/57j32ch
+  7. Anexos (imagens) armazenar em base64 / longblob ou mediumblob (como já é feito atualmente na fnção eSocial do aplicativo).
 
-
+  8. Link das telas do APP no Marvel (faltam algumas telas a serem desenhadas para Portal e Mapa): https://marvelapp.com/57j32ch
 
