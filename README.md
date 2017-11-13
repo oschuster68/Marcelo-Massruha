@@ -1,7 +1,7 @@
 # Marcelo-Massruha
 Projeto TS, BH e Indicadores - AutoEver
 
-Cenário I - Criação de Rotina para controle de Projetos (Time-Sheet
+Cenário I - Criação de Rotina para controle de Projetos (Time-Sheet)
 
   1. Deverão existir as seguintes Tabelas (associadas a estrutura atual do sistema - País, Cliente, Empresa, Filial) 
      a. Cadastro de Clientes
